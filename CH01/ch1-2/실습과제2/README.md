@@ -27,3 +27,8 @@ return 0;
 - 0을 반환하고 메인함수 정상 종료
 
 ---
+## 실행결과
+
+```
+<img width="1106" height="143" alt="image" src="https://github.com/user-attachments/assets/cf617d70-152d-467f-9f85-cb0d8caf2003" />
+```
