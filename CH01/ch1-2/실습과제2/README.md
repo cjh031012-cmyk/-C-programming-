@@ -29,7 +29,4 @@ return 0;
 ---
 ## 실행결과
 
-```
-<img width="1109" height="353" alt="image" src="https://github.com/user-attachments/assets/13f948ee-f897-4dba-a2bf-6c1b4783875d" />
-
-```
+![실행화면](https://github.com/user-attachments/assets/13f948ee-f897-4dba-a2bf-6c1b4783875d)
