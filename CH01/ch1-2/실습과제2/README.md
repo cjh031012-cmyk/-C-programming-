@@ -30,5 +30,6 @@ return 0;
 ## 실행결과
 
 ```
-<img width="1106" height="143" alt="image" src="https://github.com/user-attachments/assets/cf617d70-152d-467f-9f85-cb0d8caf2003" />
+<img width="1109" height="353" alt="image" src="https://github.com/user-attachments/assets/13f948ee-f897-4dba-a2bf-6c1b4783875d" />
+
 ```
