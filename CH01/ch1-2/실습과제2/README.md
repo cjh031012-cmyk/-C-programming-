@@ -30,3 +30,10 @@ return 0;
 ## 실행결과
 
 ![실행화면](https://github.com/user-attachments/assets/13f948ee-f897-4dba-a2bf-6c1b4783875d)
+
+---
+### 02번
+
+![소스파일](https://github.com/user-attachments/assets/b35808e1-25fe-44cb-b7d4-bd30909b96b2 )
+
+![목적,실행파일](https://github.com/user-attachments/assets/a9203689-17aa-4de0-8e93-03534d2702d3)
