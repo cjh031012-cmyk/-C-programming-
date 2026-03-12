@@ -58,4 +58,5 @@ cout << "x=" << x << "일때" << "y의 값은" << y << "입니다";
 - 0을 반환하고 함수 종료
 
 ###실행결과
+---
 <img width="710" height="386" alt="image" src="https://github.com/user-attachments/assets/64f5f845-c174-444e-800f-9352637a48f3" />
