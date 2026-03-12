@@ -72,3 +72,7 @@ int i = 0;
 ```
 
 - 0을 반환하며 함수 종료
+
+###실행결과
+---
+<img width="991" height="292" alt="image" src="https://github.com/user-attachments/assets/05366213-a267-413a-9f58-7fc71f1be3a5" />
