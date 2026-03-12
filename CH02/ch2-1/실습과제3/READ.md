@@ -4,13 +4,13 @@
 #include <iostream>
 ```
 
--cout이 들어있는 헤더파일 iostream을 포함한다
+- cout이 들어있는 헤더파일 iostream을 포함한다
 
 ```cpp
 using namespace std;
 ```
 
--C++ 표준에서 정의한 이름공간 생략방법
+- C++ 표준에서 정의한 이름공간 생략방법
 
 ```cpp
 int main(void) {
@@ -25,7 +25,7 @@ int main(void) {
 	cout << "100% \\취업률\\";
 ```
 
--cout을 통해 모니터에 출력
+- cout을 통해 모니터에 출력
 
 ```cpp
 	return 0;
