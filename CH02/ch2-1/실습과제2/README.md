@@ -1,25 +1,35 @@
 ## 소스코드 설명
 
+```cpp
 '#include <iostream>'
+```
 
 - cout가 들어있는 iostream 헤더파일 포함
 
+```cpp
 'using namespace std;'
+```
 
 - C++ 표준에서 정의한 이름공간 std를 생략하기 위한 방법
 
+```cpp
 'int main(void) {'
+```
 
 - 메인함수 시작
 
+```cpp
 'cout << "이름 : 홍길동\n";
 cout << "주소 : 군산시 대학로 558\n";
 cout << "학번 : 201012\n";
 cout << "차종 : 벤츠";'
+```
 
 - C++ 표준출력방법인 cout을 사용해서 화면에 출력
 
+```cpp
 'return 0;'
+```
 
 -0을 반환하고 메인함수 종료
 
