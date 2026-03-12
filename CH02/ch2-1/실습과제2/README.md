@@ -33,8 +33,6 @@ cout << "차종 : 벤츠";'
 
 -0을 반환하고 메인함수 종료
 
----
-
 ###실행결과
-
+---
 <img width="1000" height="318" alt="image" src="https://github.com/user-attachments/assets/2382d88f-fc5d-48b4-9e29-b753b5ccccee" />
