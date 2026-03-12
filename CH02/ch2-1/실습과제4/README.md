@@ -40,4 +40,5 @@ int main(void) {
 - 0을 반환하며 함수 종료
 
 ###실행결과
+---
 <img width="979" height="405" alt="image" src="https://github.com/user-attachments/assets/4c3bc65a-1ab1-4772-bda5-59c9fd5dbd19" />
