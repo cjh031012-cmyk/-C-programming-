@@ -36,6 +36,8 @@ public:
 ```
 
 - 중복을 하지 않기 위해 Triangle 초기화
+
+```cpp
 	Triangle(int a, int b);
 	double getArea();
 };
