@@ -87,7 +87,7 @@ int main() {
 
 - 메인함수 시작
 
-```
+```cpp
 		Triangle tri1;
 ```
 
@@ -116,3 +116,8 @@ int main() {
 ```
 
 - 0을 리턴하며 함수 종료
+
+
+###실행결과
+<img width="1103" height="380" alt="image" src="https://github.com/user-attachments/assets/bacf79b5-6015-44c2-9634-a4ff889404a9" />
+
