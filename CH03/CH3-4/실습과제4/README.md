@@ -154,3 +154,5 @@ int main() {
 - 0을 리턴하며 함수종료
 
 ###실행결과
+---
+<img width="1103" height="274" alt="image" src="https://github.com/user-attachments/assets/8fb8ff96-e969-4c65-8825-e803b2c7bc6c" />
