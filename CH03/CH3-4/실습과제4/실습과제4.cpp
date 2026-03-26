@@ -31,11 +31,12 @@ Triangle::Triangle(int w, int h) : width(w), height(h) {
 		cout << "폭" << width << "높이" << height << "삼각형 생성" << endl;
 	}
 }
-Triangle::Triangle() :Triangle(1, 1) { cout << "폭" << width << "높이" << height << "삼각형 생성" << endl; }
+Triangle::Triangle() :Triangle(1, 1) { }
 Triangle::~Triangle(){ cout << "폭" << width << "높이" << height << "삼각형 소멸" << endl; }
 void Triangle::setWidth(int w) {
 	if (w <= 0) {
 		cout << "폭은 양수이어야 함" << endl;
+		width = 1;
 	}
 	else
 	width = w;
@@ -43,6 +44,7 @@ void Triangle::setWidth(int w) {
 void Triangle::setHeight(int h) {
 	if (h <= 0) {
 		cout << "높이는 양수이어야 함" << endl;
+		height = 1;
 	}
 	height = h;
 }
