@@ -18,10 +18,10 @@ Circle::Circle() { radius = 1; }
 Circle::Circle(int i) {
 	if (i <= 0) {
 		cout << "반지름은 양수여야합니다" << endl;
-		i = 1;
+		radius = 1;
 	}
 	else {
-		i = radius;
+		radius = i;
 	}
 }
 int Circle::getRadius() {
