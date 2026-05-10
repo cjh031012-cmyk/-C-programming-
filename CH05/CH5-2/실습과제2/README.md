@@ -60,3 +60,7 @@ void add2(int& value)
 ```
 
 - add2 함수 정의, int 위에 &를 붙여서 참조에 의한 호출로 하고, 매개변수 값을 2 증가 시킴
+
+###실행화면
+---
+<img width="1106" height="147" alt="image" src="https://github.com/user-attachments/assets/2429d17c-8fe7-4ecd-b0cf-816740e17151" />
