@@ -71,3 +71,7 @@ void swap(int& a, int& b)
 ```
 
 - swap 함수 정의, 참조에 의한 호출로 지역변수 tmp을 이용해 값을 바꿈
+
+###실행화면
+---
+<img width="1108" height="235" alt="image" src="https://github.com/user-attachments/assets/d413e9cc-fd43-40be-980a-bdfaa4c83190" />
